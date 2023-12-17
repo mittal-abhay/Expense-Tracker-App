@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyTor</string>
+    <string name="title_activity_spending">SpendingActivity</string>
+    <string name="title_spending_goal">GoalActivity</string>
+    <string name="content_desc_spending">支出ノートを追加</string>
+    <string name="content_desc_spending_goal">支出の目指しを追加</string>
+    <string name="content_desc_debt_lend">貸しノートを追加</string>
+    <string name="goal_title_activity">支出の目指し</string>
+    <string name="spending_title_activity">支出ノート</string>
+    <string name="debt_lend_title_activity">借り管理</string>
+    <string name="analysis_activity">分析</string>
+    <string name="setting_activity">設定</string>
+    <string name="visualize_activity">視覚化</string>
+    <string name="menu_filter">フィルター</string>
+    <string name="menu_search">探索</string>
+    <string name="menu_confirm">確認</string>
+    <string name="menu_delete">削除</string>
+    <string name="menu_save">保存</string>
+    <string name="analyze_btn">分析でタップ</string>
+    <string name="next">次へ</string>
+    <string name="previous">先へ</string>
+    <string name="default_username">新しいユーザー</string>
+    <string name="user_name">名前</string>
+    <string name="language_title">言語</string>
+    <string name="dark_mode_title">表示モード</string>
+    <string name="toolbar_title_analysis">分析</string>
+    <string name="toolbar_title_relate">連絡先</string>
+    <string name="toolbar_title_debtlend">借り管理</string>
+    <string name="toolbar_title_goal">支出の目指し</string>
+    <string name="toolbar_goal_spending">支出リスト</string>
+    <string name="toolbar_title_visualize">視覚化</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bundle_goal_obj">bundleAlarmObj</string>
+    <string name="arg_goal_obj">ArgAlarmObj</string>
+    <string name="title_activity_settings">設定</string>
+    <string name="messages_header">メッセージ</string>
+    <string name="sync_header">同期する</string>
+    <string name="user_profile_preference">user_profile_preference</string>
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="reminder_message">" 習慣を作ることが経済的成功への道です。あなたが定期的に支出を記録することを思い出させるためにここにいます。 "</string>
+    <string name="reminder_title">MoneyTor思い出し</string>
+    <!-- Date/time -->
+    <string name="date_time_format">y月x日</string>
+    <string name="january">1月</string>
+    <string name="february">2月</string>
+    <string name="march">3月</string>
+    <string name="april">4月</string>
+    <string name="may">5月</string>
+    <string name="june">6月</string>
+    <string name="july">7月</string>
+    <string name="august">8月</string>
+    <string name="september">9月</string>
+    <string name="october">10月</string>
+    <string name="november">11月</string>
+    <string name="december">12月</string>
+    <!-- Detail -->
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date_spending">Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="tap_to_choose_contacts">Tap to choose contacts</string>
+    <string name="date_goal">Date</string>
+    <string name="target">Target</string>
+    <string name="debt_or_lend">Debt or lend</string>
+    <string name="debt">Debt</string>
+    <string name="lend">Lend</string>
+    <string name="total">Total</string>
+    <string name="average_by_date">Average by date</string>
+    <string name="spending_categories">Spending categories</string>
+    <string name="highest_spending">Highest spending</string>
+    <string name="category_summary">Category summary</string>
+    <string name="share_with">Share with</string>
+
+    <string name="date_debt">Date</string>
+    <!-- Visualize -->
+    <string name="daily_summary">Category summary</string>
+    <string name="weekly_summary">Weekly summary</string>
+    <string name="monthly_summary">Monthly summary</string>
+    <string name="annually_summary">Annually summary</string>
+    <!-- Setting -->
+    <string name="reminder_setting">Reminder setting</string>
+    <string name="display_homescreen_widget">Display homescreen widget</string>
+    <string name="sync_data">Sync data</string>
+    <string name="reminder_notification">Reminder notification</string>
+    <string name="select_time">Select time</string>
+    <string name="bubble_notif">Click me to fast note a spending</string>
+</resources>

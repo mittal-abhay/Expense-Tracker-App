@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">MoneyTor</string>
+    <string name="title_activity_spending">SpendingActivity</string>
+    <string name="title_spending_goal">GoalActivity</string>
+
+    <string name="content_desc_spending">Add a spending</string>
+    <string name="content_desc_spending_goal">Add a spending goal</string>
+    <string name="content_desc_debt_lend">Add a debt/lend</string>
+    <!-- Screen name -->
+    <string name="goal_title_activity">SPENDING GOAL</string>
+    <string name="spending_title_activity">SPENDING LIST</string>
+    <string name="debt_lend_title_activity">MANAGE DEBT</string>
+    <string name="analysis_activity">ANALYZE</string>
+    <string name="setting_activity">SETTINGS</string>
+    <string name="visualize_activity">VISUALIZE</string>
+
+    <!-- Menu title -->
+    <string name="menu_filter">Filter</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_confirm">Confirm</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_save">Save</string>
+
+    <!-- Button text -->
+    <string name="analyze_btn">Tap to analyze</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bundle_goal_obj">bundleAlarmObj</string>
+    <string name="arg_goal_obj">ArgAlarmObj</string>
+    <string name="reminder_title">MoneyTor Reminder</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="user_profile_preference">user_profile_preference</string>
+    <string name="default_username">New user</string>
+    <string name="user_name">Nick name</string>
+    <string name="language_title">Language</string>
+    <string name="dark_mode_title">UI mode</string>
+
+    <!-- Toolbar title -->
+    <string name="toolbar_title_analysis">Analysis</string>
+    <string name="toolbar_title_relate">Relate</string>
+    <string name="toolbar_title_debtlend">Manage debt</string>
+    <string name="toolbar_title_goal">Spending goal</string>
+    <string name="toolbar_goal_spending">List spending</string>
+    <string name="toolbar_title_visualize">Visualize</string>
+    <string name="reminder_message">Creating habits is the key to financial success. We are here to remind you to track down your expenses regularly.</string>
+
+    <string name="date_time_format">x/y</string>
+    <string name="january">Jan</string>
+    <string name="february">Feb</string>
+    <string name="march">Mar</string>
+    <string name="april">Apr</string>
+    <string name="may">May</string>
+    <string name="june">Jun</string>
+    <string name="july">Jul</string>
+    <string name="august">Aug</string>
+    <string name="september">Sep</string>
+    <string name="october">Oct</string>
+    <string name="november">Nov</string>
+    <string name="december">Dec</string>
+    <!-- Detail note-->
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date_spending">Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="share_with">Share with</string>
+    <string name="tap_to_choose_contacts">Tap to choose contacts</string>
+
+    <string name="date_debt">Date</string>
+    <string name="date_goal">Date</string>
+    <string name="target">Target</string>
+    <string name="debt_or_lend">Debt or lend</string>
+    <string name="debt">Debt</string>
+    <string name="lend">Lend</string>
+    <!-- Analyze -->
+    <string name="total">Total</string>
+    <string name="average_by_date">Average by date</string>
+    <string name="spending_categories">Spending categories</string>
+    <string name="highest_spending">Highest spending</string>
+    <string name="category_summary">Category summary</string>
+    <!-- Visualize -->
+    <string name="daily_summary">Daily summary</string>
+    <string name="weekly_summary">Weekly summary</string>
+    <string name="monthly_summary">Monthly summary</string>
+    <string name="annually_summary">Annually summary</string>
+    <string name="reminder_setting">Reminder setting</string>
+    <string name="display_homescreen_widget">Display homescreen widget</string>
+    <string name="sync_data">Sync data</string>
+    <string name="reminder_notification">Reminder notification</string>
+    <string name="select_time">Select time</string>
+    <string name="bubble_notif">Click me to fast note a spending</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="dark_grey">#4B4E6D</color>
+    <color name="grey">#8E8E8E</color>
+    <color name="light_grey">#CCD2E3</color>
+    <color name="dark_green">#80B192</color>
+    <color name="main_screen_btn_color">#D4FFD3</color>
+    <color name="analyze_btn_color">#6A8D92</color>
+    <color name="shadow_color">#5C844D</color>
+
+    <!--App color palette-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="english_violet">#493548</color>
+    <color name="independence">#4B4E6D</color>
+    <color name="steel_teal">#6A8D92</color>
+    <color name="dark_sea_green">#80B192</color>
+    <color name="light_green">#A1E887</color>
+    <color name="orange_soda">#F55D3E</color>
+    <color name="jonquill">#F7CB15</color>
+    <color name="candy_pink">#DD7373</color>
+
+    <color name="smoke_white">#eaefec</color>
+    <color name="bright_green">#ff4CAF50</color>
+    <!-- Dark theme -->
+    <color name="forest_green">#98c379</color>
+    <color name="dark_slate_grey">#2F4F4F</color>
+    <color name="dark_yellow">#E5C07B</color>
+    <color name="dark_red">#E06C75</color>
+    <color name="dark_blue">#61AFEF</color>
+    <color name="dark_neon">#56B6C2</color>
+    <color name="dark_white">#ABB2BF</color>
+    <color name="dark_black">#282C34</color>
+
+</resources>
